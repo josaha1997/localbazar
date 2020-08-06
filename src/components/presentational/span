@@ -1,0 +1,4 @@
+    <span className="block-example border border-success"></span>
+    <span className="block-example border border-danger"></span>
+    <span className="block-example border border-warning"></span>
+    <span className="block-example border border-info"></span>

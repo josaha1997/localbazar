@@ -1,0 +1,60 @@
+label:hover {
+  color: #ef6c00;
+}
+span {
+  padding-left: 0px;
+  font-size: 12px;
+}
+.Paper {
+  width: 35%;
+  height: 500px;
+  margin-top: 7%;
+  margin-left: 50%;
+ 
+}
+.Paper1 {
+  width: 50%;
+  height: 100%;
+  margin-top: 7%;
+  align-self: auto;
+}
+.Paper2 {
+  width: 40%;
+  height: 100%;
+  margin-top: 7%;
+  align-self: auto;
+}
+.Paper3 {
+  width: 80%;
+  height: 100%;
+  margin-top: 7%;
+}
+.Paper4 {
+  width: 100%;
+  height: 100%;
+  margin-top: 7%;
+  align-self: auto;
+}
+.Header {
+  -webkit-margin-top-collapse: separate;
+  margin-top: -15px;
+  width: 70%;
+  height: 60px;
+  padding-top: 14px;
+  text-align: center;
+  line-height: inherit;
+  font-size: 2vmax;
+  background-color: #009933 !important;
+}
+.table {
+  font-size: 20%;
+}
+error {
+  align-content: "left";
+  color: red;
+  font-size: 12px;
+}
+text {
+  color: white;
+}
+
